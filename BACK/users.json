@@ -1,0 +1,6 @@
+{
+    "nassim": {"password": "nassim", "nom": "Nassim", "prenom": "LAGHOUB", "date_naissance": "01/01/1990"},
+    "user2": {"password": "password2", "nom": "User", "prenom": "Two", "date_naissance": "02/02/1991"},
+    "zinou": {"password": "zinou", "nom": "Zinou", "prenom": "Zi", "date_naissance": "03/03/1992"}
+}
+
